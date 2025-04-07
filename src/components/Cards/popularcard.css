@@ -1,0 +1,4 @@
+.popular-card-price .original-price {
+    font-weight: bold;
+    color: var(--black) !important;
+}
